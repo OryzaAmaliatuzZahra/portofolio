@@ -252,6 +252,135 @@
   }
 }
 
+@media (min-width: 769px) and (max-width: 992px) { 
+  .home {
+    padding-top: 21rem !important;
+    padding-bottom: 39rem !important;
+  }
+
+  .home h2 {
+    font-size: 1.6rem;
+  }
+
+  .home h1 {
+    font-size: 2.3rem;
+  }
+
+  .home h4 {
+    font-size: 1.6rem;
+  }
+
+  .btn-cv {
+    width: 10rem;
+    font-size: 1.3rem;
+  }
+
+  .btn-cv:hover{
+    background-color: #482a00 !important;
+  }
+
+  .about {
+    /* display: block !important; */
+    padding-left: 2rem !important;
+    padding-right: 2rem !important;
+  }
+
+  .about .img-me {
+    width: 33%;
+    margin-right: 0.2rem;
+  }
+
+  .text-about h4 {
+    font-size: 1.3rem;
+  }
+
+  .text-about p {
+    font-size: 1.5rem;
+  }
+
+  .text-about h5 {
+    font-size: 1.5rem;
+  }
+
+  .text-about-skill img {
+    width: 8%;
+  }
+
+  .footer {
+    font-size: 1rem;
+    padding-left: 1rem !important;
+  }
+
+  .info {
+    padding-right: 4rem !important;
+  }
+
+  .connect .bi {
+    width: 50%;
+  }
+
+  .project .title-project {
+    font-size: 2.3rem;
+    margin-bottom: 3rem !important;
+  }
+  
+  .text-project h1 {
+    font-size: 1.8rem;
+  }
+  
+  .text-project h6 {
+    font-size: 1.3rem;
+  }
+  
+  .text-project p {
+    text-align: justify;
+    font-size: 1.6rem;
+  }
+  
+  .img-thumbnail {
+    cursor: default;
+  }
+  
+  .img-thumbnail:hover {
+    transform: scale(1.1);
+  }
+  
+  .tech-stack span {
+    /* padding-top: 0.1rem !important; */
+    font-size: 0.9rem;
+    /* padding-bottom: 0.1rem; */
+    letter-spacing: 1px;
+    width: 6.9rem;
+    border-radius: 5px;
+    color: black;
+  }
+  
+  .tech-stack span:hover {
+    transform: scale(1.07);
+  }
+  
+  .visit {
+    box-shadow: 0rem 0rem 10rem rgba(94, 94, 94, 0.2);
+  }
+  
+  .visit:hover {
+    background-color: #989898 !important;
+  }
+  
+  .btn-project {
+    font-size: 1.4rem !important;
+    padding: 6px 12px !important;
+  }
+  
+  .open {
+    box-shadow: 0rem 0rem 2rem rgba(107, 107, 107, 0.2);
+  }
+  
+  .open:hover {
+    background-color: #989898 !important;
+  }
+}
+
 
 
 
